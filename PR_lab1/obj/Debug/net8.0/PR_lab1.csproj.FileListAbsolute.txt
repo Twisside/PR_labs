@@ -1,0 +1,14 @@
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab1\bin\Debug\net8.0\PR_lab1.exe
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab1\bin\Debug\net8.0\PR_lab1.deps.json
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab1\bin\Debug\net8.0\PR_lab1.runtimeconfig.json
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab1\bin\Debug\net8.0\PR_lab1.dll
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab1\bin\Debug\net8.0\PR_lab1.pdb
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab1\obj\Debug\net8.0\PR_lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab1\obj\Debug\net8.0\PR_lab1.AssemblyInfoInputs.cache
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab1\obj\Debug\net8.0\PR_lab1.AssemblyInfo.cs
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab1\obj\Debug\net8.0\PR_lab1.csproj.CoreCompileInputs.cache
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab1\obj\Debug\net8.0\PR_lab1.dll
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab1\obj\Debug\net8.0\refint\PR_lab1.dll
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab1\obj\Debug\net8.0\PR_lab1.pdb
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab1\obj\Debug\net8.0\PR_lab1.genruntimeconfig.cache
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab1\obj\Debug\net8.0\ref\PR_lab1.dll
