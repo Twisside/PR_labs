@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vXJfSjkxv62P4NMhtfGPwlhCw1QniNJSRLZZ73LohkK0Ir33NgBlT0bOdXI2Lu8SmT6PiiFGQgl2JasFPfOP3g==",
+  "dgSpecHash": "jGXhn159FyrSqYXI8laqrXWwpHZpAuBXpLzjdNOYeGotm9zzpQaDaPHPxllqGQ2KhAX6izPT9JdBAMAzSNSHGg==",
   "success": true,
   "projectFilePath": "D:\\OneDrive - Technical University of Moldova\\PR\\PR_labs\\PR_lab1\\PR_lab1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\TwisSide\\.nuget\\packages\\htmlagilitypack\\1.11.67\\htmlagilitypack.1.11.67.nupkg.sha512"
+  ],
   "logs": []
 }

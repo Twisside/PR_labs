@@ -12,3 +12,6 @@ D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab1\obj\Debug\net8.
 D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab1\obj\Debug\net8.0\PR_lab1.pdb
 D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab1\obj\Debug\net8.0\PR_lab1.genruntimeconfig.cache
 D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab1\obj\Debug\net8.0\ref\PR_lab1.dll
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab1\bin\Debug\net8.0\HtmlAgilityPack.dll
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab1\obj\Debug\net8.0\PR_lab1.csproj.AssemblyReference.cache
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab1\obj\Debug\net8.0\PR_lab1.csproj.Up2Date

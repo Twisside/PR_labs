@@ -1,13 +1,17 @@
-﻿namespace PR_lab1;
+﻿using HtmlAgilityPack;
+
+namespace PR_lab1;
 
 public class Lab1
 {
     public static void Main()
     {
-        WebScraper scraper = new();
+        WebScraper scraper = new WebScraper();
         
-        string url = "https://www.google.com";
+        string url = "https://www.lego.com/bestsellers";
         string html = scraper.GetPageAsync(url).Result;
-        Console.WriteLine(html);
+
+        HtmlParser parser = new HtmlParser();
+        parser.ParseProducts(html);
     }
 }
