@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive - Technical University of Moldova\\PR\\PR_labs\\PR_lab1\\PR_lab1.csproj": {}
+    "D:\\OneDrive - Technical University of Moldova\\PR\\PR_labs\\PR_lab2\\PR_lab2.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive - Technical University of Moldova\\PR\\PR_labs\\PR_lab1\\PR_lab1.csproj": {
+    "D:\\OneDrive - Technical University of Moldova\\PR\\PR_labs\\PR_lab2\\PR_lab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive - Technical University of Moldova\\PR\\PR_labs\\PR_lab1\\PR_lab1.csproj",
-        "projectName": "PR_lab1",
-        "projectPath": "D:\\OneDrive - Technical University of Moldova\\PR\\PR_labs\\PR_lab1\\PR_lab1.csproj",
+        "projectUniqueName": "D:\\OneDrive - Technical University of Moldova\\PR\\PR_labs\\PR_lab2\\PR_lab2.csproj",
+        "projectName": "PR_lab2",
+        "projectPath": "D:\\OneDrive - Technical University of Moldova\\PR\\PR_labs\\PR_lab2\\PR_lab2.csproj",
         "packagesPath": "C:\\Users\\TwisSide\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive - Technical University of Moldova\\PR\\PR_labs\\PR_lab1\\obj\\",
+        "outputPath": "D:\\OneDrive - Technical University of Moldova\\PR\\PR_labs\\PR_lab2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TwisSide\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,21 +45,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "HtmlAgilityPack": {
+            "MongoDB.Bson": {
               "target": "Package",
-              "version": "[1.11.67, )"
+              "version": "[3.0.0, )"
             },
-            "OpenQA.Selenium.Chrome.ChromeDriverExtensions": {
+            "MongoDB.Driver": {
               "target": "Package",
-              "version": "[1.2.0, )"
-            },
-            "OpenQA.Selenium.Winium": {
-              "target": "Package",
-              "version": "[1.0.0.4, )"
-            },
-            "Selenium.WebDriver.ChromeDriver": {
-              "target": "Package",
-              "version": "[129.0.6668.9100, )"
+              "version": "[3.0.0, )"
             }
           },
           "imports": [
