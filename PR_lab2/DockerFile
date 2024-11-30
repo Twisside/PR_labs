@@ -1,0 +1,27 @@
+﻿# Use the official Microsoft ASP.NET Core runtime as a base image
+FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
+WORKDIR /app
+EXPOSE 80
+EXPOSE 443
+
+# Use the SDK image to build and publish the app
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
+WORKDIR /src
+
+# Copy the .csproj and restore any dependencies
+COPY ["PR_lab2.csproj", "MongoDBProject/"]
+RUN dotnet restore "PR_lab2.csproj"
+
+# Copy the rest of the application code
+COPY . .
+
+# Build and publish the app to the /app/publish directory
+WORKDIR "/src/MongoDBProject"
+RUN dotnet build "PR_lab2.csproj" -c Release -o /app/build
+RUN dotnet publish "PR_lab2.csproj" -c Release -o /app/publish
+
+# Final stage: build a runtime image
+FROM base AS final
+WORKDIR /app
+COPY --from=build /app/publish .
+ENTRYPOINT ["dotnet", "MongoDBProject.dll"]

@@ -1,0 +1,27 @@
+﻿# Test case 1: Get all products
+Invoke-RestMethod -Method Get -Uri "http://localhost:5000/Product"
+
+# Test case 2: Get a list of products with offset and pagination
+Invoke-RestMethod -Method Get -Uri "http://localhost:5000/Product?offset=1&limit=3"
+
+# Test case 3: Get specific product (look into Compass)
+Invoke-RestMethod -Method Get -Uri "http://localhost:5000/Product/{id}"
+
+# Test case 4: Make new product (must fail, missing fields)
+Invoke-WebRequest -Uri "http://localhost:5000/Product" -Method POST -ContentType "application/json" -Body '{"name":"New Product","price":"10 EUR"}'
+
+# Test case 5: Make new product (this time for real)
+Invoke-WebRequest -Uri "http://localhost:5000/Product" -Method POST -ContentType "application/json" -Body '{"id":"4kjhg12k34jhg","name":"Luke Skywalker before it was killed by Disney","price":"$1099.99","link":"/en-us/product/luke-before-he-was-killed-21353","age":"18+","pieces":"3009","insidersPoints":"1400","itemNumber":"21353","minifigures":"8","dimentions":["H: 13\" (32cm)","W: 21\" (51cm)","D: 11\" (27cm)"]}'
+
+# Test case 6: Update existing one (check Compass for IDs, this one must fail)
+Invoke-RestMethod -Method Put -Uri "http://localhost:5000/Product/{id}" -ContentType "application/json" -Body '{"name":"Updated Product","price":"15 EUR"}'
+
+# Test case 7: Update existing one (must fail, because record is not complete)
+Invoke-RestMethod -Method Put -Uri "http://localhost:5000/Product/{id}" -ContentType "application/json" -Body '{"id":"4kjhg12k34jhg", "name":"Updated Product","price":"15 EUR"}'
+
+# Test case 8: Update existing one (this time also for real)
+Invoke-RestMethod -Method Put -Uri "http://localhost:5000/Product/4kjhg12k34jhg" -ContentType "application/json" -Body '{"id":"4kjhg12k34jhg","name":"Luke Skywalker after he was killed by Disney, just wow","price":"$1099.99","link":"/en-us/product/luke-after-he-was-killed-21353","age":"18+","pieces":"3009","insidersPoints":"1400","itemNumber":"21353","minifigures":"8","dimentions":["H: 13\" (32cm)","W: 21\" (51cm)","D: 11\" (27cm)"]}'
+
+# Test case 9: Delete record
+Invoke-RestMethod -Method Delete -Uri "http://localhost:5000/Product/{id}"
+Invoke-RestMethod -Method Delete -Uri "http://localhost:5000/Product/4kjhg12k34jhg"

@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive - Technical University of Moldova\\PR\\PR_labs\\PR_lab1\\PR_lab1.csproj": {}
+    "C:\\Users\\Twisside\\OneDrive - Technical University of Moldova\\PR\\PR_labs\\PR_lab1\\PR_lab1.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive - Technical University of Moldova\\PR\\PR_labs\\PR_lab1\\PR_lab1.csproj": {
+    "C:\\Users\\Twisside\\OneDrive - Technical University of Moldova\\PR\\PR_labs\\PR_lab1\\PR_lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive - Technical University of Moldova\\PR\\PR_labs\\PR_lab1\\PR_lab1.csproj",
+        "projectUniqueName": "C:\\Users\\Twisside\\OneDrive - Technical University of Moldova\\PR\\PR_labs\\PR_lab1\\PR_lab1.csproj",
         "projectName": "PR_lab1",
-        "projectPath": "D:\\OneDrive - Technical University of Moldova\\PR\\PR_labs\\PR_lab1\\PR_lab1.csproj",
-        "packagesPath": "C:\\Users\\TwisSide\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive - Technical University of Moldova\\PR\\PR_labs\\PR_lab1\\obj\\",
+        "projectPath": "C:\\Users\\Twisside\\OneDrive - Technical University of Moldova\\PR\\PR_labs\\PR_lab1\\PR_lab1.csproj",
+        "packagesPath": "C:\\Users\\Twisside\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Twisside\\OneDrive - Technical University of Moldova\\PR\\PR_labs\\PR_lab1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\TwisSide\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Twisside\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,8 +36,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -73,12 +72,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\Twisside\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

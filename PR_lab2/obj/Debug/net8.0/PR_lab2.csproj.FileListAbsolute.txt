@@ -1,0 +1,60 @@
+C:\work\playground\PR_labs\PR_lab2\obj\Debug\net8.0\PR_lab2.csproj.AssemblyReference.cache
+C:\work\playground\PR_labs\PR_lab2\obj\Debug\net8.0\PR_lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\playground\PR_labs\PR_lab2\obj\Debug\net8.0\PR_lab2.AssemblyInfoInputs.cache
+C:\work\playground\PR_labs\PR_lab2\obj\Debug\net8.0\PR_lab2.AssemblyInfo.cs
+C:\work\playground\PR_labs\PR_lab2\obj\Debug\net8.0\PR_lab2.csproj.CoreCompileInputs.cache
+C:\work\playground\PR_labs\PR_lab2\obj\Debug\net8.0\PR_lab2.sourcelink.json
+C:\work\playground\PR_labs\PR_lab2\bin\Debug\net8.0\PR_lab2.exe
+C:\work\playground\PR_labs\PR_lab2\bin\Debug\net8.0\PR_lab2.deps.json
+C:\work\playground\PR_labs\PR_lab2\bin\Debug\net8.0\PR_lab2.runtimeconfig.json
+C:\work\playground\PR_labs\PR_lab2\bin\Debug\net8.0\PR_lab2.dll
+C:\work\playground\PR_labs\PR_lab2\bin\Debug\net8.0\PR_lab2.pdb
+C:\work\playground\PR_labs\PR_lab2\bin\Debug\net8.0\DnsClient.dll
+C:\work\playground\PR_labs\PR_lab2\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\work\playground\PR_labs\PR_lab2\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\work\playground\PR_labs\PR_lab2\bin\Debug\net8.0\SharpCompress.dll
+C:\work\playground\PR_labs\PR_lab2\bin\Debug\net8.0\Snappier.dll
+C:\work\playground\PR_labs\PR_lab2\bin\Debug\net8.0\ZstdSharp.dll
+C:\work\playground\PR_labs\PR_lab2\obj\Debug\net8.0\PR_lab2.csproj.Up2Date
+C:\work\playground\PR_labs\PR_lab2\obj\Debug\net8.0\PR_lab2.dll
+C:\work\playground\PR_labs\PR_lab2\obj\Debug\net8.0\refint\PR_lab2.dll
+C:\work\playground\PR_labs\PR_lab2\obj\Debug\net8.0\PR_lab2.pdb
+C:\work\playground\PR_labs\PR_lab2\obj\Debug\net8.0\PR_lab2.genruntimeconfig.cache
+C:\work\playground\PR_labs\PR_lab2\obj\Debug\net8.0\ref\PR_lab2.dll
+C:\work\playground\PR_labs\PR_lab2\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\work\playground\PR_labs\PR_lab2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\work\playground\PR_labs\PR_lab2\bin\Debug\net8.0\OpenQA.Selenium.Chrome.ChromeDriverExtensions.dll
+C:\work\playground\PR_labs\PR_lab2\bin\Debug\net8.0\OpenQA.Selenium.Winium.dll
+C:\work\playground\PR_labs\PR_lab2\bin\Debug\net8.0\WebDriver.dll
+C:\work\playground\PR_labs\PR_lab2\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\work\playground\PR_labs\PR_lab2\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\bin\Debug\net8.0\PR_lab2.exe
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\bin\Debug\net8.0\PR_lab2.deps.json
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\bin\Debug\net8.0\PR_lab2.runtimeconfig.json
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\bin\Debug\net8.0\PR_lab2.dll
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\bin\Debug\net8.0\PR_lab2.pdb
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\bin\Debug\net8.0\DnsClient.dll
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\bin\Debug\net8.0\HtmlAgilityPack.dll
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\bin\Debug\net8.0\OpenQA.Selenium.Chrome.ChromeDriverExtensions.dll
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\bin\Debug\net8.0\OpenQA.Selenium.Winium.dll
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\bin\Debug\net8.0\WebDriver.dll
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\bin\Debug\net8.0\SharpCompress.dll
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\bin\Debug\net8.0\Snappier.dll
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\bin\Debug\net8.0\ZstdSharp.dll
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\obj\Debug\net8.0\PR_lab2.csproj.AssemblyReference.cache
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\obj\Debug\net8.0\PR_lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\obj\Debug\net8.0\PR_lab2.AssemblyInfoInputs.cache
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\obj\Debug\net8.0\PR_lab2.AssemblyInfo.cs
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\obj\Debug\net8.0\PR_lab2.csproj.CoreCompileInputs.cache
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\obj\Debug\net8.0\PR_lab2.sourcelink.json
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\obj\Debug\net8.0\PR_lab2.csproj.Up2Date
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\obj\Debug\net8.0\PR_lab2.dll
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\obj\Debug\net8.0\refint\PR_lab2.dll
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\obj\Debug\net8.0\PR_lab2.pdb
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\obj\Debug\net8.0\PR_lab2.genruntimeconfig.cache
+D:\OneDrive - Technical University of Moldova\PR\PR_labs\PR_lab2\obj\Debug\net8.0\ref\PR_lab2.dll
